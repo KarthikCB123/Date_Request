@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Date with Crush", "Date with Crush", "{B2809BB4-5AA2-4612-B66B-11032D15A7AB}"
+	ProjectSection(SolutionItems) = preProject
+		Index.html = Index.html
+		New.html = New.html
+		open.css = open.css
+		style.css = style.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5096BD6-25C8-41B4-998C-039B64A18907}
+	EndGlobalSection
+EndGlobal
